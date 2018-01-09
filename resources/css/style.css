@@ -1,19 +1,24 @@
 html {
-    background-color: black
+    background-color: black;
+    font-family: verdana;
+    text-align: center;
   }
     h1 {
-     font-family: verdana;
      font-size: 50px;
      font-weight: normal;
-     text-align: center;
      color: white;
      background-color: black;
    }
 
    h2 {
+     font-size: 21px;
+     color: gray;
+   }
+
+   h3 {
      font-size: 16px;
      color: aquamarine;
-}
+   }
 
 .green {
      background-color: mediumspringgreen;
@@ -26,5 +31,3 @@ html {
 .blue {
   background-color: skyblue;
    }
-
-   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
